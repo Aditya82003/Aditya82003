@@ -27,6 +27,14 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=Aditya82003&theme=swift&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Aditya82003&theme=swift&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya82003&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## Problem Solving
+
+- Solving Data Structures and Algorithms problems regularly on LeetCode
+- Strong understanding of Trees, Graphs, Recursion, Binary Search, and Dynamic Programming
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/AdityaaaKashyAp?theme=dark&font=Nunito&ext=heatmap)
+
+🔗 LeetCode: https://leetcode.com/u/AdityaaaKashyAp/
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Aditya82003&limit=5&theme=dark&combine_all_yearly_contributions=true)
